@@ -55,4 +55,14 @@ Rerun the test by inputing `bash test.sh` and press `<Enter>`
   <img width="345" alt="image" src="https://github.com/ZhenchengLin/Lab4/assets/130115215/1b353a17-8ae9-4630-9b22-dda2ca145274">
 
 ### 9. Commit and push the resulting change to your Github account (you can pick any commit message!)
+Now we want to add the file to git by `git add List<Tab>.j<Tab>` = `git add ListExamples.java`, next `<Enter>`
+  
+It will not run anything...   
+NEXT we will input `git commit -m "Commit! For Lab 4"`
+We will resive a meesage:  
+<img width="493" alt="image" src="https://github.com/ZhenchengLin/Lab4/assets/130115215/e84fb19e-2aa5-4ec9-99f3-841b74562cae">
+  
+We can change by inputing `gir log` we can see that we commited to main
+  
+  <img width="493" alt="image" src="https://github.com/ZhenchengLin/Lab4/assets/130115215/5ca60cdc-2ef0-4b39-a3d1-9df511de77e5">
 
