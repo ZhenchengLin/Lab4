@@ -32,6 +32,7 @@ Given us this page...
   
 "After reading this code.. we know that we need to change the `index1` in the last while loop" (Privided in the begging)
 Steps to change this `index1` to `index2`
+- `<Esc>`
 - `:?index1`
 - `<Enter>`
 - `:?index1`
@@ -39,9 +40,19 @@ Steps to change this `index1` to `index2`
 - `v`
 - `l` `l` `l` `l` `l` `l`
 - `d`
+- `i`
 - `index2<Space>`
+- `<Esc>`
 - `:wq`
+- `<Enter>`
 
+Following these steps will give you this..  
+<img width="599" alt="image" src="https://github.com/ZhenchengLin/Lab4/assets/130115215/db88c383-08d3-4905-a016-a6d5a7af9959">
+  
 ### 8. Run the tests, demonstrating that they now succeed
+Rerun the test by inputing `bash test.sh` and press `<Enter>`
+  
+  <img width="345" alt="image" src="https://github.com/ZhenchengLin/Lab4/assets/130115215/1b353a17-8ae9-4630-9b22-dda2ca145274">
+
 ### 9. Commit and push the resulting change to your Github account (you can pick any commit message!)
 
