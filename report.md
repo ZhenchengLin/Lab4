@@ -27,9 +27,20 @@ We knwo that we need to fix file `ListExamples.java` inorder the stop the failli
   
 We want to enter this java file with `vim` 
 We enter `vim List<Tab>.j<Tab>` which give us `vim ListExamples.java` NOW hit `<Enter>`
-Given us this page...
+Given us this page...  
 <img width="599" alt="image" src="https://github.com/ZhenchengLin/Lab4/assets/130115215/1b83ac86-112d-460c-bcc4-909aa07f0b75">
   
+"After reading this code.. we know that we need to change the `index1` in the last while loop" (Privided in the begging)
+Steps to change this `index1` to `index2`
+- `:?index1`
+- `<Enter>`
+- `:?index1`
+- `<Enter>`
+- `v`
+- `l` `l` `l` `l` `l` `l`
+- `d`
+- `index2<Space>`
+- `:wq`
 
 ### 8. Run the tests, demonstrating that they now succeed
 ### 9. Commit and push the resulting change to your Github account (you can pick any commit message!)
