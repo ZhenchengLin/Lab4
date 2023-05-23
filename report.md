@@ -62,7 +62,7 @@ NEXT we will input `git commit -m "Commit! For Lab 4"`
 We will resive a meesage:  
 <img width="493" alt="image" src="https://github.com/ZhenchengLin/Lab4/assets/130115215/e84fb19e-2aa5-4ec9-99f3-841b74562cae">
   
-We can change by inputing `gir log` we can see that we commited to main
+We can change by inputing `git log` we can see that we commited to main
   
   <img width="493" alt="image" src="https://github.com/ZhenchengLin/Lab4/assets/130115215/5ca60cdc-2ef0-4b39-a3d1-9df511de77e5">
 
