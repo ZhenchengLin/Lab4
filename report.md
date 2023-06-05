@@ -78,8 +78,7 @@ Then we want to push it by entering `git push` and `<Enter>`
 <img width="629" alt="image" src="https://github.com/ZhenchengLin/Lab4/assets/130115215/adc99d6b-31ed-46e1-9be7-feafd487357b">
 
   
-  
-  #### Common mistake
-  If we don't change the code in the file we clone in to ieng6 or local, we can't add it nor commit it.
+#### Common mistake
+If we don't change the code in the file we clone in to ieng6 or local, we can't add it nor commit it.
   
 
