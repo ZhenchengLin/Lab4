@@ -1,6 +1,6 @@
 # Lab Report 4
 ### 4. Log into ieng6
-Input `ssh csl15sp23oa@ieng6.ucsd.edu`  
+Input `ssh csl15sp23oa@ieng6.ucsd.edu`  then press `Enter`
 And log in with my password.  
 <img width="783" alt="image" src="https://github.com/ZhenchengLin/Lab4/assets/130115215/ec1a6abd-4364-4009-a649-b439e8c69c0b"> 
 
@@ -55,6 +55,11 @@ Rerun the test by inputing `bash test.sh` and press `<Enter>`
   <img width="345" alt="image" src="https://github.com/ZhenchengLin/Lab4/assets/130115215/1b353a17-8ae9-4630-9b22-dda2ca145274">
 
 ### 9. Commit and push the resulting change to your Github account (you can pick any commit message!)
+
+First we want to input `git init` `<Enter>`  
+
+Then `git branch -m "main" `
+
 Now we want to add the file to git by `git add List<Tab>.j<Tab>` = `git add ListExamples.java`, next `<Enter>`
   
 It will not run anything...   
@@ -62,7 +67,18 @@ NEXT we will input `git commit -m "Commit! For Lab 4"`
 We will resive a meesage:  
 <img width="493" alt="image" src="https://github.com/ZhenchengLin/Lab4/assets/130115215/e84fb19e-2aa5-4ec9-99f3-841b74562cae">
   
-We can change by inputing `git log` we can see that we commited to main
+We can change by inputing `git log` and `<Enter>`we can see that we commited to main
   
-  <img width="493" alt="image" src="https://github.com/ZhenchengLin/Lab4/assets/130115215/5ca60cdc-2ef0-4b39-a3d1-9df511de77e5">
+<img width="457" alt="image" src="https://github.com/ZhenchengLin/Lab4/assets/130115215/f3319f83-4c76-4a02-bd15-2f2b2292e0d9">
+  
+Next we Single click on `q` to quit form log
+
+Then we want to push it by entering `git push` and `<Enter>`
+
+<img width="629" alt="image" src="https://github.com/ZhenchengLin/Lab4/assets/130115215/adc99d6b-31ed-46e1-9be7-feafd487357b">
+
+  
+  
+  
+  
 
