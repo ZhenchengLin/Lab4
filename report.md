@@ -79,6 +79,7 @@ Then we want to push it by entering `git push` and `<Enter>`
 
   
   
-  
+  #### Common mistake
+  If we don't change the code in the file we clone in to ieng6 or local, we can't add it nor commit it.
   
 
